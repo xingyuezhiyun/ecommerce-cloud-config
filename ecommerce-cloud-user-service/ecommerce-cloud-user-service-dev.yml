@@ -1,0 +1,4 @@
+mariadb: 
+  url: jdbc:mariadb://localhost:3306/ecommerce_business?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
+  username: '{cipher}171f4bda22b1236529bc3e6a355d735ea68b060d47ea420beb141bf21d0a26c3'
+  password: '{cipher}2196fe037b37763eb793a7e3cee02e8be659e2fb8cd77e79d118f43ee85af4c6'
